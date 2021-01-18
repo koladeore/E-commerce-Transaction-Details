@@ -1,0 +1,7 @@
+.checkbox__container {
+  padding: 3px 20px;
+}
+.checkbox__container > label {
+  padding: 0 5px;
+  font-size: 15px;
+}
